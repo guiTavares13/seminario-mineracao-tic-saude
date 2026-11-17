@@ -1,0 +1,6 @@
+Variação,n,ARI vs. principal,Retenção A (%),Retenção B (%),Retenção C (%),Retenção D (%)
+k-means ponderado (pesos amostrais),3234,0.82,100,87,94,92
+k-modes,3234,0.69,89,81,81,98
+k-means nos escores de bloco,3234,0.48,80,54,67,95
+Hierárquico (Ward),3234,0.34,70,63,51,72
+"Sem gestores com >20% de ""não sabe""",3048,0.95,95,99,99,100
